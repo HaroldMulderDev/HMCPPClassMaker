@@ -262,3 +262,15 @@ __pycache__/
 
 #cmake build directory
 build/
+
+#sln file
+*.sln
+
+# properties file
+properties/
+
+# appconfig
+app.config
+
+# csproj
+*.csproj
